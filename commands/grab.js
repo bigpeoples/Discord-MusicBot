@@ -73,10 +73,7 @@ module.exports = {
           )
           .addField(`🔎 Saved in:`, `<#${message.channel.id}>`)
           .setFooter(
-            `Requested by: ${player.queue.current.requester.tag}`,
-            player.queue.current.requester.displayAvatarURL({
-              dynamic: true,
-            })
+            `🤖 Bot Owner : Ritek Rounak`
           )
       )
       .catch((e) => {
