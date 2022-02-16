@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.dev/bigpeoples/Discord-MusicBot.git"
+    "url": "git+https://github.dev/bigpeoples/RezoBot.git"
   },
   "engines": {
     "node": ">=12.x"
@@ -20,16 +20,16 @@
   "keywords": [
     "discord",
     "discord-bot",
-    "discord-musicbot",
+    "RezoBot",
     "music",
     "discord-music"
   ],
   "author": "bigpeoples",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/bigpeoples/Discord-MusicBot/issues"
+    "url": "https://github.com/bigpeoples/RezoBot/issues"
   },
-  "homepage": "https://github.com/bigpeoples/Discord-MusicBot#readme",
+  "homepage": "https://github.com/bigpeoples/RezoBot#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "cpu-stat": "^2.0.1",

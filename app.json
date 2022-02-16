@@ -1,7 +1,7 @@
 {
   "name": "MusicBot",
   "description": "Music Bot",
-  "repository": "https://github.com/bigpeoples/Discord-MusicBot",
+  "repository": "https://github.com/bigpeoples/RezoBot",
   "logo": "https://cdn.discordapp.com/avatars/750613142488481843/e6326038dbe2243ca551ba5b6ecd8bf2.png?size=1024",
   "keywords": [
     "node",
