@@ -37,9 +37,7 @@ module.exports = {
       ).setDescription(`${Commands.join("\n")}
   
   Voicifer Music Bot Version: v${require("../package.json").version}
-  [✨ Support Server](${
-    client.botconfig.SupportServer
-  }) | 🤖 Bot Owner : Ritek Rounak`);
+  🤖 Bot Owner : Ritek Rounak`);
     if (!args[0]) message.channel.send(Embed);
     else {
       let cmd =
@@ -121,9 +119,7 @@ module.exports = {
         ).setDescription(`${Commands.join("\n")}
   
   Voicifer Music Bot Version: v${require("../package.json").version}
-  [✨ Support Server](${
-    client.botconfig.SupportServer
-  }) | 🤖 Bot Owner : Ritek Rounak`);
+  🤖 Bot Owner : Ritek Rounak`);
       if (!args) return interaction.send(Embed);
       else {
         let cmd =
